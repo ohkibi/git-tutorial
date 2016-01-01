@@ -2,4 +2,4 @@
  -featureA
 #Git Tutorial
  - fib-B
- - fture-C
+ - feature-C
